@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/nekoarc.jpg</file>
+        <file>img/footlettuce.jpg</file>
+        <file>img/Kale.png</file>
+        <file>img/fat.jpg</file>
+        <file>theme/Devsion.qss</file>
+        <file>theme/Devsion.rar</file>
+        <file>theme/Combinear.qss</file>
+        <file>theme/Combinear.rar</file>
+        <file>txt_files/day5.txt</file>
+        <file>txt_files/day4.txt</file>
+        <file>txt_files/day3.txt</file>
+        <file>txt_files/day2.txt</file>
+        <file>txt_files/day1.txt</file>
+        <file>txt_files/day7.txt</file>
+        <file>txt_files/day6.txt</file>
+        <file>txt_files/warehouse shoppers.txt</file>
+    </qresource>
+</RCC>
