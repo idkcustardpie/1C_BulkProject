@@ -4,6 +4,10 @@ Group Project for Prof. Homi's 1C class
 MEMBERS: 
 Cael Howard, Jazmine Encarnacion
 
+This program holds a database of regular and executive shoppers within a 7 day period.
+The admin and store manager have different permissions.
+For example, admins can delete or add members while store managers can view rebates or sales reports.
+
 LINKS:
 Bulk Project Functions + QT Ideas:
 https://docs.google.com/document/d/1tSuTbAc4kHTScHKlDl0SvuV-2Qa4z_v8spt0zCfrz8w/edit?usp=sharing
